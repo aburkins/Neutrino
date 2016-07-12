@@ -1,0 +1,43 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\MiddleVR_dotNet.dll (this message is harmless)
+Loading C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\MiddleVR_dotNet.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\MiddleVR_Unity3D.dll (this message is harmless)
+Loading C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\MiddleVR_Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.076 seconds
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Ayana Burkins\Documents\Neutrino\New Unity Project\Test_Data\Managed\System.dll (this message is harmless)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1348 -> priority: 1 
