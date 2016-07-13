@@ -1,6 +1,6 @@
 # Neutrino
 
-AFter downloading this project, you'll need to change the path pointed to in line 108 of ReadData.cs to an absolute path to the file called "tour.txt" (named so because it was used for tours of DiVE, as it contains many interesting events) on your local file system.
+After downloading this project, you'll need to change the path pointed to in line 108 of ReadData.cs to an absolute path to the file called "tour.txt" (named so because it was used for tours of DiVE, as it contains many interesting events) on your local file system.
 
 
 CONTROLS:
